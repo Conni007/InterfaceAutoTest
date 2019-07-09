@@ -1,3 +1,9 @@
 This is the merged branch.
-1111111
+1111111D
+这是解决冲突后的test文件
+
+
 这是master上修改的test文件
+=======
+这是mergedeimo分支上修改的test 文件
+>>>>>>> mergedemo
